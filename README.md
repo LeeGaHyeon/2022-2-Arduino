@@ -10,9 +10,15 @@
 
 프로젝트 기간 및 진행사항 
 - 11월7일 - 11월13일 : 토의 진행
+
+https://github.com/LeeGaHyeon/2022-2-Arduino/blob/main/docs/%ED%86%A0%EC%9D%98%EB%B3%B4%EA%B3%A0%EC%84%9C.docx
 - 11월14일 - 11월20일 : 단위테스트 진행 
 - 11월21일 - 11월27일 : 아두이노 스케치, 코드 구현, 스마트홈 제작, 시연영상 촬영
+
+https://github.com/LeeGaHyeon/2022-2-Arduino/blob/main/docs/%EA%B2%B0%EA%B3%BC%EB%B3%B4%EA%B3%A0%EC%84%9C.docx
+
 - 12월 2일 : 결과 발표회 
+
 
 ![우노팀_발표자료피피티 (12)](https://user-images.githubusercontent.com/50908451/205242861-0ddc3faf-0103-423a-98e4-371f4196529b.png)
 ![우노팀_발표자료피피티 (1)](https://user-images.githubusercontent.com/50908451/205243042-a4c93ca5-750b-4c2e-bb24-596c856166d4.png)
@@ -38,4 +44,6 @@
 
 ![우노팀_발표자료피피티 (10)](https://user-images.githubusercontent.com/50908451/205243149-6cdb0e15-e052-45b9-b2a9-9d06cedc3ad4.png)
 ![우노팀_발표자료피피티 (11)](https://user-images.githubusercontent.com/50908451/205243159-73cdbf6b-6c97-4f4b-815c-dd5c8fbba6f0.png)
+
+- 소스코드 : https://github.com/LeeGaHyeon/2022-2-Arduino/tree/main/src
 
